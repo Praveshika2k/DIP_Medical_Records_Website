@@ -68,11 +68,20 @@ The system takes **real-time user-provided images** as input. These images serve
 ---
 
 ## 📊 Output Results / Screenshots
-*(Insert output visualizations such as embedding process, recovery visualization, and performance metrics here.)*  
-> Example placeholders:  
-> - Original vs Embedded vs Recovered Images  
-> - Difference Maps  
-> - PSNR / SSIM / Recovery Accuracy Tables  
+*<img width="1786" height="1194" alt="image" src="https://github.com/user-attachments/assets/35e4bb0a-4c15-4851-a051-cf29dc76d8c5" />*  
+<img width="1389" height="989" alt="image" src="https://github.com/user-attachments/assets/8b66bf99-9aa0-4bc0-986f-9991b5a5ce01" />
+
+📋 Detailed Comparison Table:
+==========================================================================
+QR Size    Payload (bits)  PSNR-OE (dB)    PSNR-OR (dB)    PSNR-ER (dB)   
+==========================================================================
+50         20000           25.27           inf             25.27          
+75         45000           22.46           inf             22.46          
+100        80000           19.80           inf             19.80          
+125        125000          17.65           inf             17.65          
+150        180000          16.00           inf             16.00          
+175        245000          14.73           16.28           12.99          
+200        320000          13.47           11.82           11.10      
 
 ---
 
