@@ -39,8 +39,8 @@ This project achieves versatility by allowing users to input their own images an
 
 ## Output Screenshots or Result Summary
 
-*[Space reserved for you to insert screenshots or your result summary]*
+*[Space reserved to insert screenshots or result summary]*
 
 ## YouTube Demo Link
 
-*[Space reserved for you to insert your demo video link]*
+*[Space reserved to insert demo video link]*
