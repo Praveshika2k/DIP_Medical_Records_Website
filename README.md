@@ -87,8 +87,7 @@ Detailed Comparison Table
 ---
 
 ## 🎥 YouTube Demonstration
-*(Insert your demo video link here once available)*  
-> 🎬 [Watch the Project Demo on YouTube](https://youtu.be/)
+> 🎬 [Watch the Project Demo on YouTube](https://youtu.be/tQiz-DxyCgM?si=u8IlODgO_ZLUYWBQ)
 
 ---
 
